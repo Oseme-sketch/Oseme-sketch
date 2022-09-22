@@ -1,5 +1,5 @@
 ### Hi, I'm Osemekhian 👋
-![My Image](ProfileBanner.jpg)
+![](ProfileBanner.png)
 I am passionate about human–machine interaction (HMI) and the use of AI to solve real-world problems.
 
 [![Osemekhian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oseme-sketch)](https://github.com/anuraghazra/github-readme-stats)
