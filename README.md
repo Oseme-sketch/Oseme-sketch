@@ -4,9 +4,11 @@
 
 I am passionate about human–machine interaction (HMI) and the use of AI to solve real-world problems.
 
+## Skills and Experience
+
 Programming Languages: C, C++, JavaScript, Kotlin, PHP, Python
 
-- 🔭 I’m currently working on this page.
+- 🔭 I’m currently working on my own startup company.
 
 [![Osemekhian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oseme-sketch)](https://github.com/anuraghazra/github-readme-stats)
 
