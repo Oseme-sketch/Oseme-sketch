@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Osemekhian 👋
 
 I am passionate about human–machine interaction (HMI) and the use of AI to solve real-world problems.
 
